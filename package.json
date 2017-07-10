@@ -8,6 +8,7 @@
   "author": "Yosef Yomtobian",
   "license": "MIT",
   "dependencies": {
+    "cron": "^1.2.1",
     "twitter": "^1.7.1"
   }
 }
